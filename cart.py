@@ -9,7 +9,7 @@ class CART:
 
         # Fit the model
         self.model = tree.DecisionTreeClassifier(criterion='entropy', 
-                                            max_depth=5,
+                                            max_depth=7,
                                             min_samples_leaf=5
                                           )
         self.clf = self.model.fit(X, y)

@@ -14,7 +14,7 @@ import csv
 def fitting(X, y, criterion, splitter, mdepth, clweight, minleaf):
 
     # Create training and testing samples
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1)
 
     # Fit the model
     model = tree.DecisionTreeClassifier(criterion=criterion, 
@@ -126,7 +126,7 @@ data = df[['si3','si4','si5']]
 classes = df["yi"].values
 
 X_train, X_test, y_train, y_test, clf, graph = fitting(data, classes, 'entropy', 'best', 
-                                                       mdepth=5, 
+                                                       mdepth=7, 
                                                        clweight=None,
                                                        minleaf=5)
 
