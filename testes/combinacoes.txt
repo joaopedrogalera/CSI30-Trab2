@@ -1,0 +1,125 @@
+muito baixa  &  muito baixa  &  muito baixa
+muito baixa  &  muito baixa  &  baixa
+muito baixa  &  muito baixa  &  média
+muito baixa  &  muito baixa  &  alta
+muito baixa  &  muito baixa  &  muito alta
+muito baixa  &  baixa        &  muito baixa
+muito baixa  &  baixa        &  baixa
+muito baixa  &  baixa        &  média
+muito baixa  &  baixa        &  alta
+muito baixa  &  baixa        &  muito alta
+muito baixa  &  média        &  muito baixa
+muito baixa  &  média        &  baixa
+muito baixa  &  média        &  média
+muito baixa  &  média        &  alta
+muito baixa  &  média        &  muito alta
+muito baixa  &  alta         &  muito baixa
+muito baixa  &  alta         &  baixa
+muito baixa  &  alta         &  média
+muito baixa  &  alta         &  alta
+muito baixa  &  alta         &  muito alta
+muito baixa  &  muito alta   &  muito baixa
+muito baixa  &  muito alta   &  baixa
+muito baixa  &  muito alta   &  média
+muito baixa  &  muito alta   &  alta
+muito baixa  &  muito alta   &  muito alta
+baixa        &  muito baixa  &  muito baixa
+baixa        &  muito baixa  &  baixa
+baixa        &  muito baixa  &  média
+baixa        &  muito baixa  &  alta
+baixa        &  muito baixa  &  muito alta
+baixa        &  baixa        &  muito baixa
+baixa        &  baixa        &  baixa
+baixa        &  baixa        &  média
+baixa        &  baixa        &  alta
+baixa        &  baixa        &  muito alta
+baixa        &  média        &  muito baixa
+baixa        &  média        &  baixa
+baixa        &  média        &  média
+baixa        &  média        &  alta
+baixa        &  média        &  muito alta
+baixa        &  alta         &  muito baixa
+baixa        &  alta         &  baixa
+baixa        &  alta         &  média
+baixa        &  alta         &  alta
+baixa        &  alta         &  muito alta
+baixa        &  muito alta   &  muito baixa
+baixa        &  muito alta   &  baixa
+baixa        &  muito alta   &  média
+baixa        &  muito alta   &  alta
+baixa        &  muito alta   &  muito alta
+média        &  muito baixa  &  muito baixa
+média        &  muito baixa  &  baixa
+média        &  muito baixa  &  média
+média        &  muito baixa  &  alta
+média        &  muito baixa  &  muito alta
+média        &  baixa        &  muito baixa
+média        &  baixa        &  baixa
+média        &  baixa        &  média
+média        &  baixa        &  alta
+média        &  baixa        &  muito alta
+média        &  média        &  muito baixa
+média        &  média        &  baixa
+média        &  média        &  média
+média        &  média        &  alta
+média        &  média        &  muito alta
+média        &  alta         &  muito baixa
+média        &  alta         &  baixa
+média        &  alta         &  média
+média        &  alta         &  alta
+média        &  alta         &  muito alta
+média        &  muito alta   &  muito baixa
+média        &  muito alta   &  baixa
+média        &  muito alta   &  média
+média        &  muito alta   &  alta
+média        &  muito alta   &  muito alta
+alta         &  muito baixa  &  muito baixa
+alta         &  muito baixa  &  baixa
+alta         &  muito baixa  &  média
+alta         &  muito baixa  &  alta
+alta         &  muito baixa  &  muito alta
+alta         &  baixa        &  muito baixa
+alta         &  baixa        &  baixa
+alta         &  baixa        &  média
+alta         &  baixa        &  alta
+alta         &  baixa        &  muito alta
+alta         &  média        &  muito baixa
+alta         &  média        &  baixa
+alta         &  média        &  média
+alta         &  média        &  alta
+alta         &  média        &  muito alta
+alta         &  alta         &  muito baixa
+alta         &  alta         &  baixa
+alta         &  alta         &  média
+alta         &  alta         &  alta
+alta         &  alta         &  muito alta
+alta         &  muito alta   &  muito baixa
+alta         &  muito alta   &  baixa
+alta         &  muito alta   &  média
+alta         &  muito alta   &  alta
+alta         &  muito alta   &  muito alta
+muito alta   &  muito baixa  &  muito baixa
+muito alta   &  muito baixa  &  baixa
+muito alta   &  muito baixa  &  média
+muito alta   &  muito baixa  &  alta
+muito alta   &  muito baixa  &  muito alta
+muito alta   &  baixa        &  muito baixa
+muito alta   &  baixa        &  baixa
+muito alta   &  baixa        &  média
+muito alta   &  baixa        &  alta
+muito alta   &  baixa        &  muito alta
+muito alta   &  média        &  muito baixa
+muito alta   &  média        &  baixa
+muito alta   &  média        &  média
+muito alta   &  média        &  alta
+muito alta   &  média        &  muito alta
+muito alta   &  alta         &  muito baixa
+muito alta   &  alta         &  baixa
+muito alta   &  alta         &  média
+muito alta   &  alta         &  alta
+muito alta   &  alta         &  muito alta
+muito alta   &  muito alta   &  muito baixa
+muito alta   &  muito alta   &  baixa
+muito alta   &  muito alta   &  média
+muito alta   &  muito alta   &  alta
+muito alta   &  muito alta   &  muito alta
