@@ -45,7 +45,7 @@ model.compile(
 )
 
 #model.fit(X_train, y_train, epochs=1000)
-training = model.fit(x=data_treino, y=classes_treino, epochs=400)
+training = model.fit(x=data_treino, y=classes_treino, epochs=1000, validation_split=0.2, verbose=True)
 
 #predictions = model.predict(X_test)
 
