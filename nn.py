@@ -31,7 +31,7 @@ class NN:
         data = np.array(data_treino)
         classes = np.array(classes_treino)
         
-        training = self.model.fit(x=data, y=classes, epochs=400, verbose=self.log, shuffle=True, validation_split=0.3)
+        training = self.model.fit(x=data, y=classes, epochs=400, verbose=self.log)
         
         return training
         

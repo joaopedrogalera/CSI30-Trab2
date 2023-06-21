@@ -1,4 +1,5 @@
 from cart import CART
+from fuzzy import FUZZY
 from nn import NN
 import csv
 
@@ -26,11 +27,15 @@ class Testes:
                 
         self.cart = CART()
         
+        self.fuzzy = FUZZY()
+
         self.nn = NN()
         
     def treina(self):
         self.cart.Train(self.data_treino, self.classes_treino)
         
+        self.fuzzy.Train()
+
         self.nn.Train(self.data_treino, self.gravidade_treino)
         
     def predict_to_file(self):
@@ -42,6 +47,14 @@ class Testes:
             cartList = cart.tolist()
             for i in cartList:
                 writer.writerow([i])
+
+        fuzzy = self.fuzzy.Predict(self.data_teste)
+
+        with open('fuzzy_result.txt', 'w', newline='') as fuzzyFile:
+            writer = csv.writer(fuzzyFile, delimiter=',')
+
+            for i in fuzzy:
+                writer.writerow([i])
                 
         nn = self.nn.Predict(self.data_teste)
 
@@ -49,4 +62,4 @@ class Testes:
             writer = csv.writer(nnFile, delimiter=',')
             nnList = nn.tolist()
             for i in nnList:
-                writer.writerow([i])
+                writer.writerow([i[0]])

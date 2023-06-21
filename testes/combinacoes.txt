@@ -28,7 +28,7 @@ baixa        &  muito baixa  &  baixa       2 43
 baixa        &  muito baixa  &  média       2 87
 baixa        &  muito baixa  &  alta        2 59
 baixa        &  muito baixa  &  muito alta  2 317
-baixa        &  baixa        &  muito baixa 
+baixa        &  baixa        &  muito baixa 2 382
 baixa        &  baixa        &  baixa       2 262
 baixa        &  baixa        &  média       3 59
 baixa        &  baixa        &  alta        2 257
@@ -49,36 +49,36 @@ baixa        &  muito alta   &  média       2 464
 baixa        &  muito alta   &  alta        3 149
 baixa        &  muito alta   &  muito alta  2 457
 média        &  muito baixa  &  muito baixa 2 85
-média        &  muito baixa  &  baixa
+média        &  muito baixa  &  baixa       2 465
 média        &  muito baixa  &  média       2 23
 média        &  muito baixa  &  alta        2 194
-média        &  muito baixa  &  muito alta
+média        &  muito baixa  &  muito alta  3 266
 média        &  baixa        &  muito baixa 2 210
 média        &  baixa        &  baixa       2 16
 média        &  baixa        &  média       2 35
-média        &  baixa        &  alta
+média        &  baixa        &  alta        4 339
 média        &  baixa        &  muito alta  3 95
-média        &  média        &  muito baixa
-média        &  média        &  baixa
-média        &  média        &  média
+média        &  média        &  muito baixa 3 763
+média        &  média        &  baixa       3
+média        &  média        &  média       3 231
 média        &  média        &  alta        3 30
 média        &  média        &  muito alta  2 13
 média        &  alta         &  muito baixa 2 41
-média        &  alta         &  baixa
-média        &  alta         &  média
+média        &  alta         &  baixa       2 688
+média        &  alta         &  média       3 349
 média        &  alta         &  alta        3 102
 média        &  alta         &  muito alta  3 195
 média        &  muito alta   &  muito baixa 2 135
-média        &  muito alta   &  baixa
+média        &  muito alta   &  baixa       2 606
 média        &  muito alta   &  média       2 53
 média        &  muito alta   &  alta        3 116
 média        &  muito alta   &  muito alta  3 101
-alta         &  muito baixa  &  muito baixa
+alta         &  muito baixa  &  muito baixa 1 251
 alta         &  muito baixa  &  baixa       2 112
 alta         &  muito baixa  &  média       1 48
 alta         &  muito baixa  &  alta        2 45
 alta         &  muito baixa  &  muito alta  1 169
-alta         &  baixa        &  muito baixa
+alta         &  baixa        &  muito baixa 2 260
 alta         &  baixa        &  baixa       2 55
 alta         &  baixa        &  média       2 12
 alta         &  baixa        &  alta        3 17
@@ -93,17 +93,17 @@ alta         &  alta         &  baixa       2 130
 alta         &  alta         &  média       2 192
 alta         &  alta         &  alta        2 94
 alta         &  alta         &  muito alta  1 147
-alta         &  muito alta   &  muito baixa
+alta         &  muito alta   &  muito baixa 2 301
 alta         &  muito alta   &  baixa       1 171
-alta         &  muito alta   &  média
+alta         &  muito alta   &  média       1 346
 alta         &  muito alta   &  alta        2 189
 alta         &  muito alta   &  muito alta  2 126
 muito alta   &  muito baixa  &  muito baixa 1 164
 muito alta   &  muito baixa  &  baixa       1 151
-muito alta   &  muito baixa  &  média      
+muito alta   &  muito baixa  &  média       1 694
 muito alta   &  muito baixa  &  alta        2 60
 muito alta   &  muito baixa  &  muito alta  1
-muito alta   &  baixa        &  muito baixa
+muito alta   &  baixa        &  muito baixa 1 786
 muito alta   &  baixa        &  baixa       2 27
 muito alta   &  baixa        &  média       2 14
 muito alta   &  baixa        &  alta        3 21
@@ -118,7 +118,7 @@ muito alta   &  alta         &  baixa       1 67
 muito alta   &  alta         &  média       1 50
 muito alta   &  alta         &  alta        2 63
 muito alta   &  alta         &  muito alta  2 11
-muito alta   &  muito alta   &  muito baixa
+muito alta   &  muito alta   &  muito baixa 1 734
 muito alta   &  muito alta   &  baixa       1 33
 muito alta   &  muito alta   &  média       1 89
 muito alta   &  muito alta   &  alta        2 51
