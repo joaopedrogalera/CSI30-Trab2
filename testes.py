@@ -29,7 +29,7 @@ class Testes:
         
         self.fuzzy = FUZZY()
 
-        self.nn = NN()
+        self.nn = NN(log=True)
         
     def treina(self):
         self.cart.Train(self.data_treino, self.classes_treino)

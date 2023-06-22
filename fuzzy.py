@@ -6,7 +6,7 @@ class FUZZY:
     def __init__(self, log=False):
         self.qpa = ctrl.Antecedent(np.arange(-10, 11, 1), 'qPa')
         self.pulso = ctrl.Antecedent(np.arange(0, 201, 1), 'Pulso')
-        self.resp = ctrl.Antecedent(np.arange(0, 23, 1), 'Frequência respiratória')
+        self.resp = ctrl.Antecedent(np.arange(0, 24, 1), 'Frequência respiratória')
         self.classes = ctrl.Consequent(np.arange(1, 5, 1), 'Classe')
 
         self.qpa['muito baixa'] = fuzz.trimf(self.qpa.universe, [-10, -10, -5])
@@ -25,7 +25,7 @@ class FUZZY:
         self.resp['baixa'] = fuzz.trimf(self.resp.universe, [0, 4.4, 8.8])
         self.resp['média'] = fuzz.trimf(self.resp.universe, [4.4, 8.8, 13.2])
         self.resp['alta'] = fuzz.trimf(self.resp.universe, [8.8, 13.2, 17.6])
-        self.resp['muito alta'] = fuzz.trimf(self.resp.universe, [13.2, 17.6, 22])
+        self.resp['muito alta'] = fuzz.trimf(self.resp.universe, [13.2, 17.6, 23])
         
         self.classes['1'] = fuzz.trimf(self.classes.universe, [1, 1, 2])
         self.classes['2'] = fuzz.trimf(self.classes.universe, [1, 2, 3])
